@@ -1,2 +1,2 @@
-# nouvRepo
-Apprentissage de git
+# Flexbox
+Apprentissage du flexbox.
